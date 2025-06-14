@@ -27,7 +27,7 @@
       white-space: pre;
     }
   </style>
-  <rect width="985px" height="490px" fill="#090C0F" rx="15"/>
+  <rect width="985px" height="490px" fill="#060708" rx="15"/>
   <text x="15" y="30" fill="#c9d1d9">
     <tspan x="15" y="30">silentis@vox</tspan> -———————————————————————————————————————————-—-
     <tspan x="15" y="50" class="tiny_dot">. </tspan><tspan class="key">OS</tspan>:<tspan class="tiny_dot"> ............................. </tspan><tspan class="value">Windows 11, Ubuntu 22.04</tspan>
