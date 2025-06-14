@@ -9,7 +9,7 @@
       size-adjust: 109%;
     }
     .key {
-      fill: #E54141;
+      fill: #FE0000;
     }
     .value {
       fill: #CFCFCF;
